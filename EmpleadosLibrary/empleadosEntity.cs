@@ -60,5 +60,9 @@ namespace EmpleadosLibrary
         {
             return data.ejecutar("DELETE FROM EMPLEADO WHERE RUT = '" + this.rut + "'");
         }
+        public int actualizar(string rut)
+        {
+            return data.ejecutar("UPDATE EMPLEADO SET nombre='"+ this.nombre +"', apellido='"+ this.apellido+ "', mail='" +this.mail+"', telefono='"+this.telefono+"' WHERE rut='"+ rut +"'");
+        }
     }
 }

@@ -13,7 +13,7 @@ namespace WebApplicationEmpleados.Controllers
     public class EmpleadoController : ApiController
     {
         [HttpGet]
-        [Route("api/v1/empleados")]
+        [Route("api/empleados")]
         public respuesta listar(string rut = "")
         {
             respuesta resp = new respuesta();
@@ -54,7 +54,7 @@ namespace WebApplicationEmpleados.Controllers
         }
         //----------
         [HttpPost]
-        [Route("api/v1/setempleados")]
+        [Route("api/setempleados")]
         public respuesta guardar(empleado empleados)
         {
             respuesta resp = new respuesta();
@@ -86,7 +86,7 @@ namespace WebApplicationEmpleados.Controllers
         }
         //-------------------
         [HttpDelete]
-        [Route("api/v1/deleteempleados")]
+        [Route("api/deleteempleados")]
         public respuesta eliminar(string rut)
         {
             respuesta resp = new respuesta();
@@ -118,6 +118,37 @@ namespace WebApplicationEmpleados.Controllers
             }
         }
         //-----------------------
-
+        [HttpPut]
+        [Route("api/updateempleados")]
+        public respuesta actualizar(empleado empleados)
+        {
+            respuesta resp = new respuesta();
+            try
+            {
+                empleadosEntity emp = new empleadosEntity(empleados.rut, empleados.nombre, empleados.apellido, empleados.mail, empleados.telefono);
+                int estado = emp.actualizar(empleados.rut);
+                if (estado == 1)
+                {
+                    resp.error = false;
+                    resp.mensaje = "Empleado Modificado";
+                    resp.data = empleados;
+                }
+                else
+                {
+                    resp.error = true;
+                    resp.mensaje = "No se realizo la modificacion";
+                    resp.data = null;
+                }
+                return resp;
+            }
+            catch (Exception e)
+            {
+                resp.error = true;
+                resp.mensaje = "Error:" + e.Message;
+                resp.data = null;
+                return resp;
+            }
+        }
+        //-----------------------      
     }
 }

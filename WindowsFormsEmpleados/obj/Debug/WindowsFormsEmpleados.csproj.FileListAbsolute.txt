@@ -1,0 +1,13 @@
+C:\Users\rodri\Desktop\ev2Poo\Evaluacion2POO\WindowsFormsEmpleados\obj\Debug\WindowsFormsEmpleados.csprojAssemblyReference.cache
+C:\Users\rodri\Desktop\ev2Poo\Evaluacion2POO\WindowsFormsEmpleados\obj\Debug\WindowsFormsEmpleados.Properties.Resources.resources
+C:\Users\rodri\Desktop\ev2Poo\Evaluacion2POO\WindowsFormsEmpleados\obj\Debug\WindowsFormsEmpleados.csproj.GenerateResource.cache
+C:\Users\rodri\Desktop\ev2Poo\Evaluacion2POO\WindowsFormsEmpleados\obj\Debug\WindowsFormsEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\ev2Poo\Evaluacion2POO\WindowsFormsEmpleados\bin\Debug\WindowsFormsEmpleados.exe.config
+C:\Users\rodri\Desktop\ev2Poo\Evaluacion2POO\WindowsFormsEmpleados\bin\Debug\WindowsFormsEmpleados.exe
+C:\Users\rodri\Desktop\ev2Poo\Evaluacion2POO\WindowsFormsEmpleados\bin\Debug\WindowsFormsEmpleados.pdb
+C:\Users\rodri\Desktop\ev2Poo\Evaluacion2POO\WindowsFormsEmpleados\bin\Debug\EmpleadosLibrary.dll
+C:\Users\rodri\Desktop\ev2Poo\Evaluacion2POO\WindowsFormsEmpleados\bin\Debug\EmpleadosLibrary.pdb
+C:\Users\rodri\Desktop\ev2Poo\Evaluacion2POO\WindowsFormsEmpleados\obj\Debug\WindowsFormsEmpleados.frmMantenedor.resources
+C:\Users\rodri\Desktop\ev2Poo\Evaluacion2POO\WindowsFormsEmpleados\obj\Debug\WindowsFormsEmpleados.csproj.CopyComplete
+C:\Users\rodri\Desktop\ev2Poo\Evaluacion2POO\WindowsFormsEmpleados\obj\Debug\WindowsFormsEmpleados.exe
+C:\Users\rodri\Desktop\ev2Poo\Evaluacion2POO\WindowsFormsEmpleados\obj\Debug\WindowsFormsEmpleados.pdb

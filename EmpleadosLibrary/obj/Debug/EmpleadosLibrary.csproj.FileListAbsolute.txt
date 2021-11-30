@@ -1,0 +1,12 @@
+C:\Users\rodri\Desktop\ev2Poo\Evaluacion2POO\EmpleadosLibrary\bin\Debug\EmpleadosLibrary.dll
+C:\Users\rodri\Desktop\ev2Poo\Evaluacion2POO\EmpleadosLibrary\bin\Debug\EmpleadosLibrary.pdb
+C:\Users\rodri\Desktop\ev2Poo\Evaluacion2POO\EmpleadosLibrary\obj\Debug\EmpleadosLibrary.csprojAssemblyReference.cache
+C:\Users\rodri\Desktop\ev2Poo\Evaluacion2POO\EmpleadosLibrary\obj\Debug\EmpleadosLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\ev2Poo\Evaluacion2POO\EmpleadosLibrary\obj\Debug\EmpleadosLibrary.dll
+C:\Users\rodri\Desktop\ev2Poo\Evaluacion2POO\EmpleadosLibrary\obj\Debug\EmpleadosLibrary.pdb
+D:\Mis Cosas\Virginio Gomez\2021\Semestre 2\Lenguaje de Programación Orientada Objetos\Evaluacion2POO\EmpleadosLibrary\bin\Debug\EmpleadosLibrary.dll
+D:\Mis Cosas\Virginio Gomez\2021\Semestre 2\Lenguaje de Programación Orientada Objetos\Evaluacion2POO\EmpleadosLibrary\bin\Debug\EmpleadosLibrary.pdb
+D:\Mis Cosas\Virginio Gomez\2021\Semestre 2\Lenguaje de Programación Orientada Objetos\Evaluacion2POO\EmpleadosLibrary\obj\Debug\EmpleadosLibrary.csprojAssemblyReference.cache
+D:\Mis Cosas\Virginio Gomez\2021\Semestre 2\Lenguaje de Programación Orientada Objetos\Evaluacion2POO\EmpleadosLibrary\obj\Debug\EmpleadosLibrary.csproj.CoreCompileInputs.cache
+D:\Mis Cosas\Virginio Gomez\2021\Semestre 2\Lenguaje de Programación Orientada Objetos\Evaluacion2POO\EmpleadosLibrary\obj\Debug\EmpleadosLibrary.dll
+D:\Mis Cosas\Virginio Gomez\2021\Semestre 2\Lenguaje de Programación Orientada Objetos\Evaluacion2POO\EmpleadosLibrary\obj\Debug\EmpleadosLibrary.pdb
